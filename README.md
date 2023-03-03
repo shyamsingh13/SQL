@@ -1,6 +1,6 @@
 # SQL
-Here I will be sharing the Dataset in CSV and Do some analysis or bringing the data as per
-our requirement by using various method from basics to advance. So just tuned also I will 
+Here I will be sharing the Dataset in CSV and will be doing some analysis or bringing the data as per
+our requirement by using various method from basic to advance. So just stay tuned also I will 
 be Uploading the SQL scripts of all the query I triggered
 
 # Employee Dataset
